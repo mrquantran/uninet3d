@@ -1,0 +1,14 @@
+data
+work_dirs
+.vscode
+__pycache__/
+*.py[cod]
+*$py.class
+*.ipynb
+!index.ipynb
+*ipynb_checkpoints
+/openblas
+/checkpoints
+/MinkowskiEngine
+/mmdetection3d
+/preds
